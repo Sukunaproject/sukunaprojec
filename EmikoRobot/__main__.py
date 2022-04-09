@@ -108,9 +108,10 @@ buttons = [
             text="➗ Add Me To Your Group ➗", url=f"t.me/{bu}?startgroup=new"),
     ],
     [ 
-        InlineKeyboardButton(
-            text="Owner, url="http://t.me/Skylarvern"), 
-    ]      
+        InlineKeyboardButton("Owner",url="http://t.me/Skylarvern"), 
+    ]
+         
+    
   
 ]
             
